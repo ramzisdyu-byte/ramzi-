@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "94e910f0-e64f-4f4f-963a-1050b87aa7c7",
+            "id": "54e910f0-e64f-4f4f-969a-1050b87aa6c7",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ramzi"
+          "path": "/personalizado"
         }
       }
     }
